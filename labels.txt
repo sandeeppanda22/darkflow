@@ -1,1 +1,3 @@
-monkey
+prohibition
+mandatory
+danger
